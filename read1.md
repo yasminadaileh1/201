@@ -40,7 +40,8 @@ the book is talking about javaScript and how it can be used in browser to make w
 - program rule
 - react to event
 
-**ABC** computer programing concept mean A for what is script and how to creat one, B for how computer fit in with the world around tham, and C for how do I write a script for page
+**ABC** computer programing concept mean A for what is script and how to creat one, B for how computer fit in with the world around tham, and C for how do I write a script for page.
+**A** what is script and how to creat one?
 script is a series of instructions we could script to any type of the following:
 1. recipes
 2. handbook
@@ -55,4 +56,26 @@ script is a series of instructions we could script to any type of the following:
 - expression assign A value to A variable
 - expression that use two or more value to return a single value
 
+**B** How do computer fit in with world around them? computers create models of the wrold by using the data.
+The objective in the computer  might  that there is one instance of the object, and two or more instances of the object, Each object can have its own (1)properties each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object, (2)events, is the state which events the programmer wants to respond to, and what part of the script should be run when each of those events occur, (3)methods, know how to ask the question and how to interpret any answers it gives you.
 
+
+**C** How do I write a script for page?
+JavaScript is fitting with HTML and CSS web pages, to link the JavaScript page and HTML page we have to use the HTML < script > element to tell browser it coming cross a script.
+using objective and methods programmers call this **calling**, so the calling statement is:
+
+document . write (   )
+* **document** objevtive represent the entire web page
+* **dote** member operator several method and status properties that known as member
+* **write** method of the document objective
+* **paramters** is the price of information
+
+JavaScript is written in individual instruction or step knowm as a **statement** and it's should ended with semicolon.
+
+* green color is the code statement
+* pink curly braces indecate the start and the end of code block
+* the purple is which code should run
+
+**comment** written to explain what your code dose, they help your code easier to read and understand.
+**variable** it's a tempoarily store for the bits of information it need to do it's job
+ 
