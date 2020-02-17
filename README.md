@@ -9,7 +9,7 @@ Also, I will practice the APC steps.
 Read Number | live URL
  ---------- | ---------
 Read 1      | [link](https://yasminadaileh1.github.io/reading-notes/class-01)
-Read 2      | 
+Read 2      | [link](https://yasminadaileh1.github.io/reading-notes/class-02)
 Read 3      |
 Read 4      |
 Read 5      |
