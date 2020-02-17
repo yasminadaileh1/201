@@ -19,7 +19,7 @@ use the sub tag, in the same paragraph if you want to start a new line it will n
 
  # Javascript
 
- ## Chapter 2 (Basic Javascript Instructions)
+ ### Chapter 2 (Basic Javascript Instructions)
 
 individual instruction or step knowm as a statement and it's should ended with simicolon.to explain your code write a comment using (/ * this for multi-line comment or / / for line comment), the variable is using to store temporarily bits of infromation, the variable declare by using var, let or const and there is differnt between them. variable is allows computer to sote mmanipulate data in a dynamic fashion it's basiclly a label to point to the data. And the data have several type which is :
 * undefinde
