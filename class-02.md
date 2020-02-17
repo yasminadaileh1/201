@@ -29,8 +29,10 @@ individual instruction or step knowm as a statement and it's should ended with s
 * symbol
 * number
 * object
- ### Chapter 4(Decisions & loops)
- #### Switch statement
+
+
+### Chapter 4(Decisions & loops)
+ Switch statement
  it is stated with switch value variable, each case indicates  possible value for this variable and the code that should run if the variable matches that value. The entire statement lives in one code block , and a colon separates the option from the statements that are to be run if the case matches the switch value, at the end of each case is the break keyword, interpreter that it has finished with this switch  and to proceed to run any subsequent code that appears after it. 
 
 
