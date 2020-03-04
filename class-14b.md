@@ -1,0 +1,2 @@
+# What Google Learned From Its Quest to Build the Perfec Team
+this article about Julia story focusing in how to deal with groups and work with them understanding everyone in MBA. julia discuss different personalities in the group and whom you should stay away from.
