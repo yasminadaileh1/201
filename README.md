@@ -28,3 +28,4 @@ Read 14b    | [link](https://yasminadaileh1.github.io/reading-notes/class-14b)
 This is the reading topics for 301 :
 read 1 [link](https://yasminadaileh1.github.io/reading-notes/read01)
 read 2 [link](https://yasminadaileh1.github.io/reading-notes/read02)
+read 3 [link](https://yasminadaileh1.github.io/reading-notes/read03)
