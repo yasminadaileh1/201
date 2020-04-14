@@ -22,7 +22,7 @@ There are three modification anomalies that can occur:
 2. Update Anomaly
 ![update](img/update.png)
 3. Deletion Anomaly
-![deletion](img/deletion)
+![deletion](img/deletion.png)
 
 ## Definition of Database Normalization
 
